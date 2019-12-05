@@ -2,6 +2,7 @@
 
 # dependencies
 /node_modules
+/basic-routing/node_modules
 
 # testing
 /coverage
